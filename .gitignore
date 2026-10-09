@@ -1,0 +1,9 @@
+# Only portfolio text and selected media belong in this repository.
+*.pdf
+*.doc
+*.docx
+*.zip
+*.log
+Thumbs.db
+.DS_Store
+~$*
